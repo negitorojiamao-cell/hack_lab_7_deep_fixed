@@ -1,0 +1,5 @@
+.env
+.hacklab_usage.json
+.hacklab_usage.tmp
+__pycache__/
+*.pyc

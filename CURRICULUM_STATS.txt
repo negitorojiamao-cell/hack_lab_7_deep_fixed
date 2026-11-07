@@ -1,0 +1,7 @@
+HACK//LAB 7.0 DEEP
+Tracks: 12
+Lessons: 300
+Glossary: 662
+Lesson stages: 6, each on a separate HTML page
+Estimated learning time: about 276 hours
+All lessons use written explanation + application quiz.
